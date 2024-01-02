@@ -1,0 +1,6 @@
+export const GUEST = "GUEST"
+export const SETTOKEN = "SETTOKEN"
+export const TOKEN_FUNCTION = "TOKENFUNCTION"
+export const LOCATION_DATA = "LOCATION_DATA"
+export const USER_DATA = "USER_DATA"
+export const APP_STATE = "APP_STATE"
